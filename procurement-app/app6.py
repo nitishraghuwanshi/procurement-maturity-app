@@ -370,13 +370,6 @@ THEMES = {
 # Ollama Connection
 # -----------------------------
 ollama_available = False
-try:
-    with socket.create_connection(("localhost", 11434), timeout=5):
-        ollama_available = True
-        client = Client(host='http://localhost:11434')
-except Exception:
-    ollama_available = False
-
 # -----------------------------
 # Utility Functions
 # -----------------------------

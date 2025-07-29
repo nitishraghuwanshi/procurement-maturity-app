@@ -1,0 +1,99 @@
+{
+    "questions": {
+        "performance_review_individual_eval": {
+            "question": "Q1. How is individual performance evaluated in your procurement organization?",
+            "focus_area": "Performance Review",
+            "options": [
+                "No evaluation at all",
+                "Results-based review, no objectives",
+                "Review against individual objectives",
+                "Objectives aligned with team/department goals",
+                "Aligned with business-wide targets"
+            ]
+        },
+        "performance_review_audit_conducted": {
+            "question": "Q2. Are regular Procurement activity reviews/audits being conducted?",
+            "focus_area": "Performance Review",
+            "options": [
+                "No reviews conducted",
+                "Ad-hoc reviews",
+                "Scheduled interdepartmental reviews"
+            ]
+        },
+        "savings_tracking_methodology": {
+            "question": "Q3. Does your savings methodology/definition allow to capture all the different types of savings?",
+            "focus_area": "Savings Tracking",
+            "options": [
+                "Tracks price savings only",
+                "Covers most common savings types",
+                "Comprehensive multi-type savings tracking"
+            ]
+        },
+        "savings_tracking_mechanism": {
+            "question": "Q4. Do you have a standardized tracking mechanism to report accrued savings?",
+            "focus_area": "Savings Tracking",
+            "options": [
+                "No tracking mechanism",
+                "Isolated trackers, minimal validation",
+                "Tracked by finance only",
+                "Tracked for key projects and validated",
+                "Central tracking with full validation"
+            ]
+        },
+        "savings_dashboard": {
+            "question": "Q5. Do you have a dashboard to report savings?",
+            "focus_area": "Savings Tracking",
+            "options": [
+                "No dashboard",
+                "Only on-request reporting",
+                "Basic non-self-service dashboard",
+                "Incomplete automated dashboard",
+                "Fully updated self-service dashboard"
+            ]
+        },
+        "benefits_tracking_tool": {
+            "question": "Q6. Does the business have a benefits tracking tool? Is it real-time or post-event?",
+            "focus_area": "Savings Tracking",
+            "options": [
+                "No benefits tracking tool",
+                "Post-event records only",
+                "Recorded and reported post-event",
+                "Periodic reporting of benefits",
+                "Real-time tracking and analysis"
+            ]
+        },
+        "kpi_procurement_use": {
+            "question": "Q7. Do you use/monitor KPIs and targeted metrics to track Procurement performance?",
+            "focus_area": "Procurement KPIs",
+            "options": [
+                "No KPIs used",
+                "Used only when issues arise",
+                "Measured for cost and supplier metrics",
+                "Annual reviews of KPIs",
+                "KPIs regularly updated and tracked"
+            ]
+        },
+        "kpi_compliance": {
+            "question": "Q8. Do your KPIs track compliance to Procurement channels/rules (e.g., spend under contract)?",
+            "focus_area": "Compliance KPIs",
+            "options": [
+                "No compliance tracking",
+                "Manual tracking only",
+                "Real-time but not automated",
+                "Fully automated",
+                "Self-service, real-time tracking"
+            ]
+        },
+        "kpi_reporting": {
+            "question": "Q9. Is your KPI reporting automated? Do you have a self-service dashboard?",
+            "focus_area": "Reporting",
+            "options": [
+                "Fully manual reporting",
+                "Minimal automation",
+                "Partially automated",
+                "Fully automated",
+                "Self-service dashboard reporting"
+            ]
+        }
+    }
+}

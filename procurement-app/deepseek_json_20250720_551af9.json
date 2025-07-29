@@ -1,0 +1,104 @@
+{
+  "questions": {
+    "Q1": {
+      "question": "Q1. How is individual performance evaluated in your procurement organization?",
+      "recommendations": {
+        "1": "Introduce structured performance evaluations with defined criteria.",
+        "2": "Add objectives to results-based reviews for clarity.",
+        "3": "Align individual goals with departmental KPIs.",
+        "4": "Cascade objectives from department to team level.",
+        "5": "Integrate business-wide goals into individual performance plans."
+      }
+    },
+    "Q2": {
+      "question": "Q2. Are regular Procurement activity reviews/audits being conducted?",
+      "recommendations": {
+        "1": "Set up scheduled review cadence with stakeholders.",
+        "2": "Introduce structured interdepartmental review process.",
+        "3": "Track review actions to improve compliance.",
+        "4": "Digitize review outcomes for audit readiness.",
+        "5": "Embed continuous improvement loops from review findings."
+      }
+    },
+    "Q3": {
+      "question": "Q3. Does your savings methodology/definition allow to capture all the different types of savings?",
+      "recommendations": {
+        "1": "Expand beyond price savings to include TCO.",
+        "2": "Standardize common savings types for accuracy.",
+        "3": "Adopt a comprehensive savings framework with validation.",
+        "4": "Align savings types to finance and compliance standards.",
+        "5": "Integrate multi-savings tracking into dashboards."
+      }
+    },
+    "Q4": {
+      "question": "Q4. Do you have a standardized tracking mechanism to report accrued savings?",
+      "recommendations": {
+        "1": "Create centralized tracker validated by Finance.",
+        "2": "Develop standardized templates for tracking.",
+        "3": "Expand validation for high-value projects.",
+        "4": "Automate savings tracking via ERP integration.",
+        "5": "Enable predictive insights for future savings."
+      }
+    },
+    "Q5": {
+      "question": "Q5. Do you have a dashboard to report savings?",
+      "recommendations": {
+        "1": "Develop a basic savings reporting dashboard.",
+        "2": "Introduce auto-refresh features for data accuracy.",
+        "3": "Enable drill-down for category-level reporting.",
+        "4": "Add real-time dashboards with visualization.",
+        "5": "Integrate predictive analytics into dashboards."
+      }
+    },
+    "Q6": {
+      "question": "Q6. Does the business have a benefits tracking tool? Is it real-time or post-event?",
+      "recommendations": {
+        "1": "Implement benefits tracking in ERP.",
+        "2": "Enable post-event reporting with validations.",
+        "3": "Add real-time tracking for savings and compliance.",
+        "4": "Create automated alerts for anomalies.",
+        "5": "Link benefits tracking to forecasting models."
+      }
+    },
+    "Q7": {
+      "question": "Q7. Do you use/monitor KPIs and targeted metrics to track Procurement performance?",
+      "recommendations": {
+        "1": "Define key procurement KPIs aligned to goals.",
+        "2": "Track KPIs when issues arise; build consistency.",
+        "3": "Add supplier metrics and category KPIs.",
+        "4": "Enable quarterly KPI reviews with stakeholders.",
+        "5": "Automate KPI dashboards with predictive alerts."
+      }
+    },
+    "Q8": {
+      "question": "Q8. Do your KPIs track compliance to Procurement channels/rules (e.g., spend under contract)?",
+      "recommendations": {
+        "1": "Start with basic compliance reporting templates.",
+        "2": "Introduce manual tracking for key categories.",
+        "3": "Adopt semi-automated compliance dashboards.",
+        "4": "Enable real-time compliance analytics.",
+        "5": "Integrate AI-driven compliance monitoring."
+      }
+    },
+    "Q9": {
+      "question": "Q9. Is your KPI reporting automated? Do you have a self-service dashboard?",
+      "recommendations": {
+        "1": "Create basic templates for manual KPI reports.",
+        "2": "Introduce partial automation for recurring KPIs.",
+        "3": "Develop role-based dashboards for reporting.",
+        "4": "Automate KPI dashboards with drill-down options.",
+        "5": "Offer predictive insights in self-service dashboards."
+      }
+    },
+    "Q10": {
+      "question": "Q10. What is your overall current savings run rate?",
+      "recommendations": {
+        "1": "Implement spend visibility tools and reporting.",
+        "2": "Create a category savings roadmap for 3 years.",
+        "3": "Introduce should-cost modeling for top spend.",
+        "4": "Develop cross-functional value capture initiatives.",
+        "5": "Adopt predictive savings forecasting with AI."
+      }
+    }
+  }
+}

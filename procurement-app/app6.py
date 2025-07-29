@@ -10,6 +10,14 @@ import socket
 from collections import defaultdict, Counter
 from ollama import Client
 import matplotlib.pyplot as plt
+import subprocess
+import sys
+# Install missing packages
+def install(package):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+
+install("plotly==5.22.0")
+install("matplotlib==3.8.4")
 
 # -----------------------------
 # Configuration
